@@ -1,0 +1,5 @@
+D:\F(data)\F\Unversity\Subjects\C#\课程设计提交\WebSocket-Server\bin\Debug\Web Sockets Test - Server.exe
+D:\F(data)\F\Unversity\Subjects\C#\课程设计提交\WebSocket-Server\bin\Debug\Web Sockets Test - Server.pdb
+D:\F(data)\F\Unversity\Subjects\C#\课程设计提交\WebSocket-Server\obj\Debug\WebSocket-Server.csprojResolveAssemblyReference.cache
+D:\F(data)\F\Unversity\Subjects\C#\课程设计提交\WebSocket-Server\obj\Debug\Web Sockets Test - Server.exe
+D:\F(data)\F\Unversity\Subjects\C#\课程设计提交\WebSocket-Server\obj\Debug\Web Sockets Test - Server.pdb
