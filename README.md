@@ -40,3 +40,6 @@ Visual Studio 2013 + Android Studio
 ![image](https://img-blog.csdn.net/20170807215944054?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvS2V2aW5CZXR0ZXJR/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
 #### 2.2 模块介绍
 ![image](http://img.blog.csdn.net/20170807215936029?watermark/2/text/aHR0cDovL2Jsb2cuY3Nkbi5uZXQvS2V2aW5CZXR0ZXJR/font/5a6L5L2T/fontsize/400/fill/I0JBQkFCMA==/dissolve/70/gravity/Center)
+
+## Authors：
+qiwenkaikai@qq.com
