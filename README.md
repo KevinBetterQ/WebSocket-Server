@@ -1,6 +1,7 @@
 # 基于WebSocket的聊天系统 - 服务器模块：  
-整个“基于WebSocket的聊天系统”包含三部分，服务器端 + 聊天网站 + Android端  
-WebSocket-Server 是其中一部分，利用 C# 语言自己实现了一个 WebSocket 的服务器，对协议进行解析，并对聊天信息的发送进行管理。  
+整个 “ 基于WebSocket的聊天系统 ” 包含三部分，服务器端 + 聊天网站 + Android端.
+
+`WebSocket-Server` 是其中一部分，利用 C# 语言自己实现了一个 WebSocket 的服务器，对协议进行解析，并对聊天信息的发送进行管理。  
 
 项目具体参考：http://blog.csdn.net/kevinbetterq/article/details/76861899  
 
